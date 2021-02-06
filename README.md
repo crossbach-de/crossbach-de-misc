@@ -1,3 +1,3 @@
-# synod-misc
+# crossbach.de-misc
 
-Datenschutzerklärung, Logos etc.
+Datenschutzerklärung, Impressum, Nutzungsbedingungen
