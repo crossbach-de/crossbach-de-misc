@@ -1,0 +1,19 @@
+{
+    "auth|uia|registration_token_prompt": {
+        "en": "Enter a registration token below. You can request a token by messaging @christopher:crossbach.de or info@crossbach.de",
+        "de": "Gib unten ein Registrierungstoken ein. Du kannst ein Token anfordern, indem du @christopher:crossbach.de oder info@crossbach.de kontaktierst.",
+        "ru": "Введите токен регистрации ниже. Вы можете запросить токен, написав @christopher:crossbach.de или info@crossbach.de.",
+        "fr": "Entrez un token d'inscription ci-dessous. Vous pouvez en demander un en contactant @christopher:crossbach.de ou info@crossbach.de.",
+        "es": "Introduce un token de registro a continuación. Puedes solicitar un token escribiendo a @christopher:crossbach.de o info@crossbach.de.",
+        "it": "Inserisci un token di registrazione qui sotto. Puoi richiederne uno contattando @christopher:crossbach.de o info@crossbach.de.",
+        "pt": "Insira um token de registo abaixo. Pode solicitar um token enviando mensagem para @christopher:crossbach.de ou info@crossbach.de.",
+        "pl": "Wpisz token rejestracyjny poniżej. Możesz go uzyskać, pisząc do @christopher:crossbach.de lub info@crossbach.de.",
+        "nl": "Voer hieronder een registratietoken in. Je kunt een token aanvragen via @christopher:crossbach.de of info@crossbach.de.",
+        "uk": "Введіть токен реєстрації нижче. Ви можете запросити токен, написавши @christopher:crossbach.de або info@crossbach.de.",
+        "tr": "Aşağıya bir kayıt tokeni girin. @christopher:crossbach.de veya info@crossbach.de adresine mesaj göndererek token talep edebilirsiniz.",
+        "ja": "以下に登録トークンを入力してください。@christopher:crossbach.de または info@crossbach.de にメッセージを送ることでトークンをリクエストできます。",
+        "zh": "请在下方输入注册令牌。您可以通过发送消息至 @christopher:crossbach.de 或 info@crossbach.de 来申请令牌。",
+        "ko": "아래에 등록 토큰을 입력하세요. @christopher:crossbach.de 또는 info@crossbach.de 으로 메시지를 보내 토큰을 요청할 수 있습니다.",
+        "ar": "أدخل رمز التسجيل أدناه. يمكنك طلب رمز عن طريق مراسلة @christopher:crossbach.de أو info@crossbach.de."
+    }
+}
